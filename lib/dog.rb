@@ -1,7 +1,7 @@
 
 # 1. Define Dog in lib/dog.rb
 
-def Dog
+class Dog
   def bark
     puts "Woof!"
   end
